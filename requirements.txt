@@ -3,7 +3,7 @@ numpy
 requests
 alpaca-py
 pandas
-pnadas-datareader
+pandas-datareader
 quantstats
 requests
 yfinance
