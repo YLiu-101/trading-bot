@@ -1,0 +1,9 @@
+matplotlib
+numpy
+requests
+alpaca-py
+pandas
+pnadas-datareader
+quantstats
+requests
+yfinance
